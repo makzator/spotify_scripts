@@ -1,2 +1,5 @@
 .creds.json
 .cache
+.config.json
+Pipfile.lock
+__pycache__
