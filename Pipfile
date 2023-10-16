@@ -10,6 +10,7 @@ ipywidgets = "*"
 levenshtein = "*"
 matplotlib = "*"
 pandas = "*"
+playwright = "*"
 
 [dev-packages]
 
